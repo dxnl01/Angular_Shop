@@ -1,7 +1,7 @@
 import express from 'express';
 import User from '../models/user.models.js';
 
-const userRoutes = express.Router();
+const userRoutes = express.Router(); 
 
 // (GET)
 
