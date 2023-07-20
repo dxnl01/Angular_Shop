@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
-import { InventoryService } from '../../services/inventory.service';
+import { InventoryService } from '../../services/inventory.service'; 
 
 interface Product {
   productID: number;
